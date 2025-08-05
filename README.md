@@ -17,12 +17,9 @@ This is a simple Spring Boot CRUD (Create, Read, Update, Delete) REST API for ma
 ## 📁 Project Structure
 
 com.q4.crudapp
-├── Controller
-│   └── StudentController.java
-├── Model
-│   └── Student.java
-├── Repository
-│   └── StudentRepository.java
+├── Controller ── StudentController.java
+├── Model ── Student.java
+├── Repository ── StudentRepository.java
 └── CrudappApplication.java
 
 ---
@@ -44,15 +41,6 @@ com.q4.crudapp
 - All fields are required:
   - `firstName`, `lastName`, `address`, `department`, `email`, `mobileNumber`, `studyField`
 - `email` must be a valid email format
-
----
-
-## ⚙️ How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/crudapp.git
-   cd crudapp
 
 ---
 
