@@ -20,7 +20,7 @@ com.q4.crudapp
 ├── Controller ── StudentController.java
 ├── Model ── Student.java
 ├── Repository ── StudentRepository.java
-└── CrudappApplication.java
+── CrudappApplication.java
 
 ---
 
